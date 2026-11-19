@@ -1,0 +1,31 @@
+# Bản lưu và dữ liệu thử nghiệm trên máy cá nhân
+/Basic/archives/
+*.in
+*.IN
+*.dat
+*.DAT
+
+# Kết quả build
+target/
+out/
+*.class
+
+# Cấu hình IDE và file tạm
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Cấu hình cá nhân
+.env
+.env.*
+
+# Dự án nháp và ghi chép tái cấu trúc chỉ lưu tại máy này
+/QuanLySinhVien/
+/SimpleCalculator/
+/docs/restructure-map.md
